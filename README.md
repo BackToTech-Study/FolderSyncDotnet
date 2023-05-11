@@ -1,5 +1,6 @@
 # FolderSyncDotnet
-Folder sync demo in dotnet
+Folder sync demo in dotnet.
+
 FolderSyncApp is a program that synchronizes files between two directories and can be run from the command-line.
 ## Usage
 
