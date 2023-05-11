@@ -18,7 +18,7 @@ FolderSyncApp\FolderSyncApp\bin\Release\net6.0
 ## Block Diagram
 
 The following block diagram illustrates the architecture of the FolderSyncApp code:
-![FolderSyncApp block diagram](https://github.com/BackToTech-Study/FolderSyncDotnet/blob/main/Resources/BlockDiagram.png))
+![FolderSyncApp block diagram](https://github.com/BackToTech-Study/FolderSyncDotnet/blob/main/Resources/BlockDiagram.png)
 
 
 ## Notes
